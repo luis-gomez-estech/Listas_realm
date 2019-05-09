@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Listas_realm</string>
+    <string name="hint_titulo">Nombre del Usuario</string>
+    <string name="mensaje_alerta">Agregar un nuevo usuario</string>
+    <string name="toast_mensaje_nombre_vacio">Por favor rellene todos los campos</string>
+    <string name="hint_image">Imagen</string>
+    <string name="hint_descripcion">Descripción</string>
+    <string name="mensaje_editar_alert">Editar</string>
+    <string name="placeholder_descripcion">Descripción del usuario</string>
+    <string name="placeholder_fecha">30/08/2018</string>
+</resources>
